@@ -2,7 +2,7 @@ package com.github.bogdan;
 
 public class Person {
     private String name;
-
+    private String phone;
     public Person(String name) {
         this.name = name;
     }
